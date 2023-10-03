@@ -13,13 +13,6 @@
     * pytube library for the Youtube downloading
     * ctypes for the app id in windows (for the icon)
 
-<style>
-    img{
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 25%;
-}
-</style>
 
-<img src="./resources/icon.ico" >
+
+<img src="./resources/icon.ico" style="display: block; margin-left: auto; margin-right: auto; width: 25%;">
