@@ -11,6 +11,8 @@
     
     * tkinter library for the gui
     * pytube library for the Youtube downloading
+    * ctypes for the app id in windows (for the icon)
+
 <style>
     img{
         display: block;
